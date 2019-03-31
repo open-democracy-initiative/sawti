@@ -1,2 +1,2 @@
 # sawti
-Open Democraty Project 
+Open Democracy Project 
